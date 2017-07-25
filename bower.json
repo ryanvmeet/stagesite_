@@ -1,0 +1,21 @@
+{
+  "name": "stagesite",
+  "description": "",
+  "main": "",
+  "authors": [
+    "OguzcanK <oguz_66tr@hotmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/OguzcanK/Stagesite",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "*",
+    "admin-lte": "*"
+  }
+}
